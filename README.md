@@ -7,6 +7,13 @@ Made With : [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?
 - Kelas : TI.21.B.1
 - Mata Kuliah : Pemrograman Web
 
+Daftar isi :
+
+- [Introduction](https://github.com/Ridwanwildan/Lab8Web#run-mysql-server)
+- [Database Tables](https://github.com/Ridwanwildan/Lab8Web#go-to-phpmyadmin)
+- [Capture Features](https://github.com/Ridwanwildan/Lab8Web#initialization-in-root-directory)
+- [Demo Website](https://github.com/Ridwanwildan/Lab8Web#build-crud)
+
 ## Introduction
 
 Website CRUD ini menggunakan bahasa pemrograman PHP dan databasenya menggunakan MYSQL dengan case yaitu Data Iuran Warga. Yang akan ditampilkan adalah data warga, laporan iuran setiap warga, data warga yang belum membayar iuran, dan juga laporan jumlah uang iuran.
@@ -90,4 +97,11 @@ Page ini menampilkan list dari warga yang belum bayar berdasarkan bulan dan jeni
 ![Gambar 9](Screenshoots/Capture9.PNG)
 
 Tampilan dari page ini adalah berupa jumlah keseluruhan uang yang terdata selama setahun. Dipisahkan berdasarkan jenis iuran dan bulannya. Serta terdapat elemen option untuk memilih tahunnya. Pada contoh diatas, tidak ada list untuk bulan Juni, Juli, Agustus, dan September 2022 karena tidak ada data yang di record di bulan tersebut.
-# UAS_Pemrograman_Web
+
+## Demo Website
+
+Demo website menggunakan subdomain dan hosting gratis dari infinityfree.com. Infinityfree bisa melakukan penonaktifan kapan saja pada website ini. Fitur yang ada diwebsite bisa dicoba dengan mengakses link berikut :
+
+http://hizbullahridwan.infinityfreeapp.com/
+
+[![Watch the video](https://img.youtube.com/vi/jkT2JI7OGOA/default.jpg)](https://www.youtube.com/jkT2JI7OGOA)
