@@ -9,10 +9,10 @@ Made With : [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?
 
 Daftar isi :
 
-- [Introduction](https://github.com/Ridwanwildan/Lab8Web#run-mysql-server)
-- [Database Tables](https://github.com/Ridwanwildan/Lab8Web#go-to-phpmyadmin)
-- [Capture Features](https://github.com/Ridwanwildan/Lab8Web#initialization-in-root-directory)
-- [Demo Website](https://github.com/Ridwanwildan/Lab8Web#build-crud)
+- [Introduction](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#introduction)
+- [Database Tables](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#database-tables)
+- [Capture Features](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#capture-features)
+- [Demo Website](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#demo-website)
 
 ## Introduction
 
@@ -104,4 +104,5 @@ Demo website menggunakan subdomain dan hosting gratis dari infinityfree.com. Inf
 
 http://hizbullahridwan.infinityfreeapp.com/
 
+Watch the video : https://www.youtube.com/jkT2JI7OGOA
 [![Watch the video](https://img.youtube.com/vi/jkT2JI7OGOA/default.jpg)](https://www.youtube.com/jkT2JI7OGOA)
