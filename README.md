@@ -104,5 +104,4 @@ Demo website menggunakan subdomain dan hosting gratis dari infinityfree.com. Inf
 
 http://hizbullahridwan.infinityfreeapp.com/
 
-Watch the video : https://www.youtube.com/jkT2JI7OGOA
-[![Watch the video](https://img.youtube.com/vi/jkT2JI7OGOA/default.jpg)](https://www.youtube.com/jkT2JI7OGOA)
+Watch the video : https://youtu.be/jkT2JI7OGOA
