@@ -12,7 +12,7 @@ Daftar isi :
 - [Introduction](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#introduction)
 - [Database Tables](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#database-tables)
 - [Capture Features](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#capture-features)
-- [Demo Website](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#demo-website)
+- [Documentation and Demo Website](https://github.com/Ridwanwildan/UAS_Pemrograman_Web#documentation-and-demo-website)
 
 ## Introduction
 
@@ -98,10 +98,12 @@ Page ini menampilkan list dari warga yang belum bayar berdasarkan bulan dan jeni
 
 Tampilan dari page ini adalah berupa jumlah keseluruhan uang yang terdata selama setahun. Dipisahkan berdasarkan jenis iuran dan bulannya. Serta terdapat elemen option untuk memilih tahunnya. Pada contoh diatas, tidak ada list untuk bulan Juni, Juli, Agustus, dan September 2022 karena tidak ada data yang di record di bulan tersebut.
 
-## Demo Website
+## Documentation and Demo Website
 
 Demo website menggunakan subdomain dan hosting gratis dari infinityfree.com. Infinityfree bisa melakukan penonaktifan kapan saja pada website ini. Fitur yang ada diwebsite bisa dicoba dengan mengakses link berikut :
 
 http://hizbullahridwan.infinityfreeapp.com/
 
 Watch the video : https://youtu.be/jkT2JI7OGOA
+
+[View the documentation sheet here](https://github.com/Ridwanwildan/UAS_Pemrograman_Web/blob/main/documentation.docx)
